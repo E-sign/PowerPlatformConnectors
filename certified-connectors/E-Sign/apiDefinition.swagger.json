@@ -6,8 +6,8 @@
     "version": "5.0",
     "contact": {
       "name": "E-Sign Support",
-      "url": "https://www.e-sign.co.uk",
-      "email": "support@e-sign.co.uk"
+      "url": "https://www.esign.co.uk",
+      "email": "support@esign.co.uk"
     }
   },
   "host": "api.e-sign.co.uk",
@@ -2326,11 +2326,11 @@
   "x-ms-connector-metadata": [
     {
       "propertyName": "Website",
-      "propertyValue": "https://www.e-sign.co.uk"
+      "propertyValue": "https://www.esign.co.uk"
     },
     {
       "propertyName": "Privacy policy",
-      "propertyValue": "https://www.e-sign.co.uk/privacy/"
+      "propertyValue": "https://www.esign.co.uk/privacy/"
     },
     {
       "propertyName": "Categories",

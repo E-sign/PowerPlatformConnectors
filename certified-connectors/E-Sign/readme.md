@@ -4,7 +4,7 @@ It’s easy to e-sign and send your documents on any device with our secure elec
 
 ## Prerequisites
 
-In order use this connector you must have a paid for E-Sign account on the E-Sign platform. You can setup an account here https://www.e-sign.co.uk/register. 
+In order use this connector you must have a paid for E-Sign account on the E-Sign platform. You can setup an account here https://www.esign.co.uk/register. 
 
 How to get credentials
 
@@ -17,7 +17,7 @@ The E-Sign API uses OAuth 2 to authenticate so once account is setup no addition
 
 Send a document for signing when a new email with an attachment is received from Microsoft Outlook or Gmail as shown below. 
 
-![](images/2021-01-12-09-59-47.png)
+![](images/2024-11-20-13-41-59.png)
 ￼
 ## Known issues and limitations
 
@@ -29,8 +29,8 @@ https://api.e-sign.co.uk/v3/index.html
 
 ## FAQ
 
-https://www.e-sign.co.uk/support/faqs/ 
-https://www.e-sign.co.uk/contact-us/ 
+https://www.esign.co.uk/support/faqs/ 
+https://www.esign.co.uk/contact-us/ 
 
 
 
